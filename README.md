@@ -21,7 +21,7 @@ using the tight-binding model with nearest-neighbor hopping.
 ## Band Structure
 
 
-![Band Structure](results/graphene_bands.png)
+![Band Structure](results/graphene_bands.jpg)
 
 
 
